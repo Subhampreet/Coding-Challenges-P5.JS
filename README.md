@@ -20,7 +20,7 @@ The official documentation of p5.js suggests to use Bracket or Sublime and then 
 
 ### Aim of the Repository:
 
-This Repository consists solution to unique Visual Coding Challenges solved in p5.js. The following are the list of problem statements solved in this repository : 
+This Repository consists of solutions to unique Visual Coding Challenges solved in p5.js. The following are the list of problem statements solved in this repository : 
 
 - <b>Challenge-1</b> : Starfield 
 - <b>Challenge-2</b> : Snake Game 
