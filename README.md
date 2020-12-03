@@ -24,3 +24,5 @@ This Repository consists of solutions to unique Visual Coding Challenges solved 
 
 - <b>Challenge-1</b> : Starfield 
 - <b>Challenge-2</b> : Snake Game 
+- <b>Challenge-3</b> : Purple Rain in Processing
+
