@@ -22,7 +22,7 @@ The official documentation of p5.js suggests to use Bracket or Sublime and then 
 
 This Repository consists of solutions to unique Visual Coding Challenges solved in p5.js. The following are the list of problem statements solved in this repository : 
 
-- <b>Challenge-1</b> : Starfield 
-- <b>Challenge-2</b> : Snake Game 
+- <b>Challenge-1</b> : [Starfield](https://github.com/Subhampreet/Coding-Challenges-P5.JS/tree/main/Challenge_001-Startfield%20Processing) 
+- <b>Challenge-2</b> : [Snake Game](https://github.com/Subhampreet/Coding-Challenges-P5.JS/tree/main/Challenge_002-Snake%20Game) 
 - <b>Challenge-3</b> : Purple Rain in Processing
 
